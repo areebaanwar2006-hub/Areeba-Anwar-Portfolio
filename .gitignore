@@ -1,0 +1,10 @@
+node_modules/
+.next/
+.next-stale-*/
+.qa/
+.reference-frames/
+.codex-video-frames/
+.env
+coverage/
+*.log
+.DS_Store
