@@ -262,7 +262,6 @@ function LatestProjects() {
                   <div className="reveal-meta"><span>{project.no}</span><span>{project.kind}</span></div>
                   <h3>{project.title}</h3>
                   <p>{project.copy}</p>
-                  <span className="view-project">View Project →</span>
                 </div>
               </div>
             </div>
